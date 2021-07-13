@@ -20,6 +20,7 @@
 		E25201A0269DD9C800052EA0 /* CreditsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E252019F269DD9C800052EA0 /* CreditsView.swift */; };
 		E25201A3269DDA1700052EA0 /* HeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E25201A2269DDA1700052EA0 /* HeaderView.swift */; };
 		E25201A4269DDBF000052EA0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E2520174269DBBA700052EA0 /* Assets.xcassets */; };
+		E25201A6269DDD0E00052EA0 /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E25201A5269DDD0E00052EA0 /* SettingsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -80,6 +81,7 @@
 		E252019D269DD77000052EA0 /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
 		E252019F269DD9C800052EA0 /* CreditsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreditsView.swift; sourceTree = "<group>"; };
 		E25201A2269DDA1700052EA0 /* HeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderView.swift; sourceTree = "<group>"; };
+		E25201A5269DDD0E00052EA0 /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -150,6 +152,7 @@
 				E2520180269DBBA700052EA0 /* ContentView.swift */,
 				E252019D269DD77000052EA0 /* DetailView.swift */,
 				E252019F269DD9C800052EA0 /* CreditsView.swift */,
+				E25201A5269DDD0E00052EA0 /* SettingsView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -298,6 +301,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E2520181269DBBA700052EA0 /* ContentView.swift in Sources */,
+				E25201A6269DDD0E00052EA0 /* SettingsView.swift in Sources */,
 				E2520183269DBBA700052EA0 /* NotesApp.swift in Sources */,
 				E2520185269DBBA700052EA0 /* ComplicationController.swift in Sources */,
 				E25201A0269DD9C800052EA0 /* CreditsView.swift in Sources */,
